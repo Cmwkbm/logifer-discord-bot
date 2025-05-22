@@ -101,6 +101,16 @@ function searchUnits(query) {
   const normalizedQuery = preprocessQuery(unitQuery);
   const queryTokens = normalizedQuery.split(' ').map(t => t.toLowerCase()).filter(Boolean);
 
+  // Filter units to faction if abbreviation specified, else all units
+  const unitsToSearch = factionAbbreviation
+    ? allUnits.filter(unit => 
+        unit.faction.some(f => f.toLowerCase() === factionAbbreviation.toLowerCase())
+      )
+    : allUnits;
+
+  // Create a new Fuse instance scoped to filtered units
+  const fuse = new Fuse(unitsToSearch, fuseOptions);
+
   const results = fuse.search(normalizedQuery);
   if (results.length === 0) return [];
 
@@ -118,18 +128,10 @@ function searchUnits(query) {
     const charPenalty =
       !queryHasCharKeyword && characterKeywords.some(kw => name.includes(kw)) ? 5 : 0;
 
-    // Penalty if explicit faction abbreviation doesn't match the unit's factions
-    const abbreviationPenalty =
-      factionAbbreviation && !factionList.includes(factionAbbreviation.toLowerCase()) ? 5 : 0;
-
-    // Penalty if query faction keywords are present but don't match this unit's faction
-    const factionPenalty =
-      queryFactionKeywords.length > 0 &&
-      !queryFactionKeywords.some(fk => factionList.includes(fk)) ? 5 : 0;
-
+    // Since units are filtered to faction, no penalty for faction mismatch needed
     const exactMatchBonus = name === normalizedQuery.toLowerCase() ? 10 : 0;
 
-    return tokenMatches + phraseMatch - charPenalty - factionPenalty - abbreviationPenalty + exactMatchBonus;
+    return tokenMatches + phraseMatch - charPenalty + exactMatchBonus;
   }
 
   const scoredResults = results.map(r => ({
@@ -141,6 +143,7 @@ function searchUnits(query) {
 
   return scoredResults;
 }
+
 
 
 module.exports = { searchUnits, factionAbbreviations };
