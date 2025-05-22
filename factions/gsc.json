@@ -1,0 +1,1217 @@
+[
+  {
+    "name": "Abominant",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Abominant",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Acolyte Iconward",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Acolyte-Iconward",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Benefictus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Benefictus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Biophagus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Biophagus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Clamavus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Clamavus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Jackal Alphus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Jackal-Alphus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Kelermorph",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Kelermorph",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Locus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Locus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Magus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Magus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Nexos",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Nexos",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Patriarch",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Patriarch",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Primus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Primus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Reductus Saboteur",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Reductus-Saboteur",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Sanctus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Sanctus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Cadian Castellan",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Cadian-Castellan",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Cadian Command Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Cadian-Command-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Catachan Command Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Catachan-Command-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Deathleaper",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Deathleaper",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Krieg Command Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Krieg-Command-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Leman Russ Commander",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Leman-Russ-Commander",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Parasite Of Mortrex",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Parasite-Of-Mortrex",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Primaris Psyker",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Primaris-Psyker",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Rogal Dorn Commander",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Rogal-Dorn-Commander",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Winged Hive Tyrant",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Winged-Hive-Tyrant",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Winged Tyranid Prime",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Winged-Tyranid-Prime",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Death Rider Commissar",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Death-Rider-Commissar",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Quartermaster Cadre Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Quartermaster-Cadre-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Hell’s Last",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Hell-s-Last",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Acolyte Hybrids With Autopistols",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Acolyte-Hybrids-With-Autopistols",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Acolyte Hybrids With Hand Flamers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Acolyte-Hybrids-With-Hand-Flamers",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Neophyte Hybrids",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Neophyte-Hybrids",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Cadian Shock Troops",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Cadian-Shock-Troops",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Catachan Jungle Fighters",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Catachan-Jungle-Fighters",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Death Korps Of Krieg",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Death-Korps-Of-Krieg",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Gargoyles",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Gargoyles",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Goliath Truck",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Goliath-Truck",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Chimera",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Chimera",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Taurox",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Taurox",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Taurox Prime",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Taurox-Prime",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Tyrannocyte",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Tyrannocyte",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Storm Chimera",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Storm-Chimera",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Aegis Defence Line",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Aegis-Defence-Line",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Earthshaker Platform",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Earthshaker-Platform",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Hydra Platform",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Hydra-Platform",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Manticore Platform",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Manticore-Platform",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Sabre Weapons Battery",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Sabre-Weapons-Battery",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Tectonic Fragdrill",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Tectonic-Fragdrill",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Aberrants",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Aberrants",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Achilles Ridgerunners",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Achilles-Ridgerunners",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Atalan Jackals",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Atalan-Jackals",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Goliath Rockgrinder",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Goliath-Rockgrinder",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Hybrid Metamorphs",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Hybrid-Metamorphs",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Purestrain Genestealers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Purestrain-Genestealers",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Armoured Sentinels",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Armoured-Sentinels",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Artillery Team",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Artillery-Team",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Attilan Rough Riders",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Attilan-Rough-Riders",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Baneblade",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Baneblade",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Banehammer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Banehammer",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Banesword",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Banesword",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Basilisk",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Basilisk",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Cadian Heavy Weapons Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Cadian-Heavy-Weapons-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Catachan Heavy Weapons Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Catachan-Heavy-Weapons-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Death Riders",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Death-Riders",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Deathstrike",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Deathstrike",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Doomhammer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Doomhammer",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Field Ordnance Battery",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Field-Ordnance-Battery",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Hellhammer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Hellhammer",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Hellhound",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Hellhound",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Hydra",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Hydra",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Kasrkin",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Kasrkin",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Krieg Combat Engineers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Krieg-Combat-Engineers",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Krieg Heavy Weapons Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Krieg-Heavy-Weapons-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Leman Russ Battle Tank",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Leman-Russ-Battle-Tank",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Leman Russ Demolisher",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Leman-Russ-Demolisher",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Leman Russ Eradicator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Leman-Russ-Eradicator",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Leman Russ Executioner",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Leman-Russ-Executioner",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Leman Russ Exterminator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Leman-Russ-Exterminator",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Leman Russ Punisher",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Leman-Russ-Punisher",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Leman Russ Vanquisher",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Leman-Russ-Vanquisher",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Lictor",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Lictor",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Manticore",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Manticore",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Mawloc",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Mawloc",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Neurolictor",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Neurolictor",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Raveners",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Raveners",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Rogal Dorn Battle Tank",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Rogal-Dorn-Battle-Tank",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Scout Sentinels",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Scout-Sentinels",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Shadowsword",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Shadowsword",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Stormlord",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Stormlord",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Stormsword",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Stormsword",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Trygon",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Trygon",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Von Ryan’s Leapers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Von-Ryan-s-Leapers",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Wyvern",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Wyvern",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Cyclops Demolition Vehicle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Cyclops-Demolition-Vehicle",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Arkurian Stormhammer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Arkurian-Stormhammer",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Armageddon-pattern Medusa",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Armageddon-pattern-Medusa",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Atlas Recovery Vehicle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Atlas-Recovery-Vehicle",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Carnodon",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Carnodon",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Centaur Light Carrier",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Centaur-Light-Carrier",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Colossus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Colossus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Crassus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Crassus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Death Korps Grenadier Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Death-Korps-Grenadier-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Dominus Armoured Siege Bombard",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Dominus-Armoured-Siege-Bombard",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Earthshaker Carriage Battery",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Earthshaker-Carriage-Battery",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Elysian Drop Sentinel",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Elysian-Drop-Sentinel",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Elysian Sniper Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Elysian-Sniper-Squad",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Gorgon Heavy Transport",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Gorgon-Heavy-Transport",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Griffon Mortar Carrier",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Griffon-Mortar-Carrier",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Hades Breaching Drill",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Hades-Breaching-Drill",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Heavy Mortar Team",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Heavy-Mortar-Team",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Heavy Quad Launcher Team",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Heavy-Quad-Launcher-Team",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Macharius",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Macharius",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Macharius Omega",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Macharius-Omega",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Macharius Vanquisher",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Macharius-Vanquisher",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Macharius Vulcan",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Macharius-Vulcan",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Malcador",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Malcador",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Malcador Annihilator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Malcador-Annihilator",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Malcador Defender",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Malcador-Defender",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Malcador Infernus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Malcador-Infernus",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Medusa Carriage Battery",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Medusa-Carriage-Battery",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Minotaur",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Minotaur",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Mukaali Riders",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Mukaali-Riders",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Munitorum Servitors",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Munitorum-Servitors",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Praetor",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Praetor",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Rapier Laser Destroyer Battery",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Rapier-Laser-Destroyer-Battery",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Regimental Attachés",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Regimental-Attach-s",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Salamander Command Vehicle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Salamander-Command-Vehicle",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Salamander Scout Vehicle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Salamander-Scout-Vehicle",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Sentinel Powerlifter",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Sentinel-Powerlifter",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Stormblade",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Stormblade",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Stygies Destroyer Tank Hunter",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Stygies-Destroyer-Tank-Hunter",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Tarantula Battery",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Tarantula-Battery",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Tauros Assault Vehicle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Tauros-Assault-Vehicle",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Tauros Venator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Tauros-Venator",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Trojan Support Vehicle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Trojan-Support-Vehicle",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  },
+  {
+    "name": "Valdor",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/genestealer-cults/Valdor",
+    "faction": [
+      "GSC",
+      "Cults",
+      "Genestealer Cults"
+    ]
+  }
+]

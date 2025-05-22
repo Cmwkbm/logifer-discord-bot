@@ -1,0 +1,858 @@
+[
+  {
+    "name": "Abaddon The Despoiler",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Abaddon-The-Despoiler",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Lord",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Lord In Terminator Armour",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord-In-Terminator-Armour",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Lord with Jump Pack",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord-with-Jump-Pack",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Cultist Firebrand",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Cultist-Firebrand",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Cypher",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Cypher",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Dark Apostle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Dark-Apostle",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Dark Commune",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Dark-Commune",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Fabius Bile",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Fabius-Bile",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Haarken Worldclaimer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Haarken-Worldclaimer",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Heretic Astartes Daemon Prince",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Heretic-Astartes-Daemon-Prince",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Heretic Astartes Daemon Prince With Wings",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Heretic-Astartes-Daemon-Prince-With-Wings",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Huron Blackheart",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Huron-Blackheart",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Lord Discordant On Helstalker",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Master Of Executions",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Master-Of-Executions",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Master Of Possession",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Master-Of-Possession",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sorcerer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sorcerer",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sorcerer In Terminator Armour",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sorcerer-In-Terminator-Armour",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Traitor Enforcer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Traitor-Enforcer",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Vashtorr The Arkifane",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Vashtorr-The-Arkifane",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Warpsmith",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warpsmith",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Lord On Bike",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord-On-Bike",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Lord On Disc Of Tzeentch",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord-On-Disc-Of-Tzeentch",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Lord On Juggernaut",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord-On-Juggernaut",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Lord On Palanquin Of Nurgle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord-On-Palanquin-Of-Nurgle",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Lord On Steed Of Slaanesh",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord-On-Steed-Of-Slaanesh",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Exalted Champion",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Exalted-Champion",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Renegade Enforcer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Renegade-Enforcer",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Rogue Psyker",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Rogue-Psyker",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sorcerer On Bike",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sorcerer-On-Bike",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sorcerer On Disc Of Tzeentch",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sorcerer-On-Disc-Of-Tzeentch",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sorcerer On Palanquin Of Nurgle",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sorcerer-On-Palanquin-Of-Nurgle",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sorcerer On Steed Of Slaanesh",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sorcerer-On-Steed-Of-Slaanesh",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Cultist Mob",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Cultist-Mob",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Legionaries",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Legionaries",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Khorne Berzerkers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Khorne-Berzerkers",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Plague Marines",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Plague-Marines",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Rubric Marines",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Rubric-Marines",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Cultist Mob with Firearms",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Cultist-Mob-with-Firearms",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Rhino",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Rhino",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Terrax-pattern Termite",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Terrax-pattern-Termite",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Noctilith Crown",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Noctilith-Crown",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Accursed Cultists",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Accursed-Cultists",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Bikers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Bikers",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Land Raider",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Land-Raider",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Predator Annihilator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Predator-Annihilator",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Predator Destructor",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Predator-Destructor",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Spawn",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Spawn",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Terminator Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Terminator-Squad",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Vindicator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Vindicator",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chosen",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chosen",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Defiler",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Defiler",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Fellgor Beastmen",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Fellgor-Beastmen",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Forgefiend",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Havocs",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Havocs",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Helbrute",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Helbrute",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Heldrake",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Heldrake",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Khorne Lord Of Skulls",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Khorne-Lord-Of-Skulls",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Maulerfiend",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Maulerfiend",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Obliterators",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Possessed",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Possessed",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Raptors",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Raptors",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Traitor Guardsmen Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Traitor-Guardsmen-Squad",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Venomcrawler",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Warp Talons",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warp-Talons",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Noise Marines",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Noise-Marines",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Nemesis Claw",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Nemesis-Claw",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Deimos Predator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Deimos-Predator",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Gellerpox Infected",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Gellerpox-Infected",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Hell Blade",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Hell-Blade",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Hell Talon",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Hell-Talon",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Mutilators",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Mutilators",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Mutoid Vermin",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Mutoid-Vermin",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Negavolt Cultists",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Negavolt-Cultists",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Renegade Heavy Weapons Squad",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Renegade-Heavy-Weapons-Squad",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Renegade Ogryn Beast Handler",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Renegade-Ogryn-Beast-Handler",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Renegade Ogryn Brutes",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Renegade-Ogryn-Brutes",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Renegade Plague Ogryns",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Renegade-Plague-Ogryns",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Blood Slaughterer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Blood-Slaughterer",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Cerberus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Cerberus",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Chaos Thunderhawk",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Thunderhawk",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Decimator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Decimator",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Deredeo Dreadnought",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Deredeo-Dreadnought",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Dreadclaw Drop Pod",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Dreadclaw-Drop-Pod",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Falchion",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Falchion",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Fellblade",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Fellblade",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Fire Raptor Gunship",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Fire-Raptor-Gunship",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Greater Blight Drone",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Greater-Blight-Drone",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Greater Brass Scorpion",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Greater-Brass-Scorpion",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Kharybdis Assault Claw",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Kharybdis-Assault-Claw",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Kratos",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Kratos",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Kytan Ravager",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Kytan-Ravager",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Land Raider Achilles",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Land-Raider-Achilles",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Land Raider Proteus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Land-Raider-Proteus",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Leviathan Dreadnought",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Leviathan-Dreadnought",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Mastodon",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Mastodon",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Rapier Carrier",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Rapier-Carrier",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Relic Contemptor Dreadnought",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Relic-Contemptor-Dreadnought",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sicaran Battle Tank",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sicaran-Battle-Tank",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sicaran Punisher",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sicaran-Punisher",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sicaran Venator",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sicaran-Venator",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Sokar-pattern Stormbird",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Sokar-pattern-Stormbird",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Spartan",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Spartan",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Storm Eagle Gunship",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Storm-Eagle-Gunship",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Typhon",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Typhon",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Whirlwind Scorpius",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Whirlwind-Scorpius",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  },
+  {
+    "name": "Xiphon Interceptor",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Xiphon-Interceptor",
+    "faction": [
+      "CSM",
+      "Chaos Space Marines"
+    ]
+  }
+]

@@ -1,0 +1,1025 @@
+[
+  {
+    "name": "Asurmen",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Asurmen",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Autarch",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Autarch",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Autarch Wayleaper",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Autarch-Wayleaper",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Avatar of Khaine",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Avatar-of-Khaine",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Baharroth",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Baharroth",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Death Jester",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Eldrad Ulthran",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Eldrad-Ulthran",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Farseer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Farseer",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Farseer Skyrunner",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Farseer-Skyrunner",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Fuegan",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Fuegan",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Jain Zar",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Jain-Zar",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Lhykhis",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Lhykhis",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Maugan Ra",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Maugan-Ra",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Shadowseer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadowseer",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Solitaire",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Spiritseer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Spiritseer",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "The Visarch",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/The-Visarch",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "The Yncarne",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/The-Yncarne",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Troupe Master",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Warlock",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Warlock",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Ynnari Archon",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Ynnari-Archon",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Ynnari Succubus",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Ynnari-Succubus",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Yvraine",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Yvraine",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Amallyn Shadowguide",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Amallyn-Shadowguide",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Autarch Skyrunner",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Autarch-Skyrunner",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Bonesinger",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Bonesinger",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Illic Nightspear",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Illic-Nightspear",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Irillyth",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Irillyth",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Karandras",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Karandras",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Prince Yriel",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Prince-Yriel",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Corsair Voidreavers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Corsair-Voidreavers",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Guardian Defenders",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Guardian-Defenders",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Storm Guardians",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Storm-Guardians",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Ynnari Kabalite Warriors",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Ynnari-Kabalite-Warriors",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Ynnari Wyches",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Ynnari-Wyches",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Starweaver",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Wave Serpent",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Wave-Serpent",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Ynnari Raider",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Ynnari-Raider",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Ynnari Venom",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Ynnari-Venom",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Webway Gate",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Webway-Gate",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Corsair Voidscarred",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Corsair-Voidscarred",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Crimson Hunter",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Crimson-Hunter",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "D-cannon Platform",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/D-cannon-Platform",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Dark Reapers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Dark-Reapers",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Dire Avengers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Dire-Avengers",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Falcon",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Falcon",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Fire Dragons",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Fire-Dragons",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Fire Prism",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Fire-Prism",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Hemlock Wraithfighter",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Hemlock-Wraithfighter",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Howling Banshees",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Howling-Banshees",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Night Spinner",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Night-Spinner",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Rangers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Rangers",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Shadow Weaver Platform",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadow-Weaver-Platform",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Shining Spears",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Shining-Spears",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Shroud Runners",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Shroud-Runners",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Skyweavers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Striking Scorpions",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Striking-Scorpions",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Swooping Hawks",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Swooping-Hawks",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Troupe",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Vibro Cannon Platform",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Vibro-Cannon-Platform",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Voidweaver",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Vypers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Vypers",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "War Walkers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/War-Walkers",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Warlock Conclave",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Warlock-Conclave",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Warlock Skyrunners",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Warlock-Skyrunners",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Warp Spiders",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Warp-Spiders",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Windriders",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Windriders",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Wraithblades",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Wraithblades",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Wraithguard",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Wraithguard",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Wraithknight",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Wraithknight",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Wraithknight with Ghostglaive",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Wraithknight-with-Ghostglaive",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Wraithlord",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Wraithlord",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Ynnari Incubi",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Ynnari-Incubi",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Ynnari Reavers",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Ynnari-Reavers",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Phantom Titan",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Phantom-Titan",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Revenant Titan",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Revenant-Titan",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Cobra",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Cobra",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Corsair Cloud Dancer Band",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Corsair-Cloud-Dancer-Band",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Corsair Reaver Band",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Corsair-Reaver-Band",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Corsair Skyreaver Band",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Corsair-Skyreaver-Band",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Firestorm",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Firestorm",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Hornet",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Hornet",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Lynx",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Lynx",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Nightwing",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Nightwing",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Phoenix",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Scorpion",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Scorpion",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Shadow Spectres",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadow-Spectres",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Skathach Wraithknight",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Skathach-Wraithknight",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Vampire Hunter",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Vampire-Hunter",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Vampire Raider",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Vampire-Raider",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Warp Hunter",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Warp-Hunter",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Wasp Assault Walker",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Wasp-Assault-Walker",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  },
+  {
+    "name": "Wraithseer",
+    "url": "https://wahapedia.ru/wh40k10ed/factions/aeldari/Wraithseer",
+    "faction": [
+      "Aeldari",
+      "Eldar",
+      "Elves",
+      "Harlequins",
+      "Ynnari"
+    ]
+  }
+]
