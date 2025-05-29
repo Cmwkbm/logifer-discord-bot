@@ -1,9 +1,15 @@
+require('./keepAlive');
 require('dotenv').config();
 const token = process.env.DISCORD_TOKEN;
 const { Client, GatewayIntentBits, EmbedBuilder, Partials } = require('discord.js');
 const { searchUnits } = require('./unitSearch');
 const { scrapeUnitData } = require('./unitScraper');
 const { createUnitEmbed } = require('./unitEmbed');
+const { fetchNewRecruitList } = require('./fetchNewRecruitList');
+const { createListEmbed } = require('./formatNewRecruitEmbed');
+
+
+
 
 const factionAbbreviations = require('./unitSearch').factionAbbreviations; // Required for !whhelp factions
 
@@ -21,19 +27,44 @@ const client = new Client({
 client.once('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 
-  setTimeout(() => {
-    client.user.setActivity('for !wh help', { type: 'WATCHING' });
-    console.log('Status set.');
-  }, 1000);
+  client.user.setPresence({
+    activities: [{ name: 'for !wh help', type: 3 }], // 3 = WATCHING
+    status: 'online',
+  });
+
+  console.log('Presence set.');
 });
 
 
 
 
+
 client.on('messageCreate', async (message) => {
+  const content = message.content.trim().toLowerCase();
+  if (content.startsWith('!whlist ')) {
+  const args = message.content.split(/\s+/);
+  if (args.length < 2) {
+    return message.channel.send('⚠️ Please provide a New Recruit list link after !whlist.');
+  }
+  const listUrl = args[1];
+
+  try {
+    const listData = await fetchNewRecruitList(listUrl);
+    if (!listData) {
+      return message.channel.send('❌ Could not fetch the list. Please check the link and try again.');
+    }
+
+    const embed = createListEmbed(listData);
+    await message.channel.send({ embeds: [embed] });
+
+  } catch (error) {
+    console.error('Error fetching New Recruit list:', error);
+    message.channel.send('❌ There was an error processing the New Recruit list. Please try again later.');
+  }
+  return; // stop further processing
+}
   if (message.author.bot) return;
 
-  const content = message.content.trim().toLowerCase();
 
   // === Handle !whhelp and subcommands ===
   // === Handle !whhelp and !wh help ===
