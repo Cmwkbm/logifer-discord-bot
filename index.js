@@ -5,10 +5,10 @@ const { Client, GatewayIntentBits, EmbedBuilder, Partials } = require('discord.j
 const { searchUnits } = require('./unitSearch');
 const { scrapeUnitData } = require('./unitScraper');
 const { createUnitEmbed } = require('./unitEmbed');
-const { fetchNewRecruitList } = require('./fetchNewRecruitList');
-const { createListEmbed } = require('./formatNewRecruitEmbed');
-
-
+const { parseList } = require('./listParser');
+const { createCondensedEmbed } = require('./listEmbed');
+const crypto = require('crypto');
+const { storeList, getList } = require('./listCache'); // renamed here
 
 
 const factionAbbreviations = require('./unitSearch').factionAbbreviations; // Required for !whhelp factions
@@ -39,30 +39,53 @@ client.once('ready', () => {
 
 
 
-client.on('messageCreate', async (message) => {
-  const content = message.content.trim().toLowerCase();
-  if (content.startsWith('!whlist ')) {
-  const args = message.content.split(/\s+/);
-  if (args.length < 2) {
-    return message.channel.send('⚠️ Please provide a New Recruit list link after !whlist.');
-  }
-  const listUrl = args[1];
 
-  try {
-    const listData = await fetchNewRecruitList(listUrl);
-    if (!listData) {
-      return message.channel.send('❌ Could not fetch the list. Please check the link and try again.');
+client.on('messageCreate', async (message) => {
+  if (message.author.bot) return;
+
+  const content = message.content.trim();
+
+  if (content.toLowerCase().startsWith('!whlist ')) {
+    const arg = message.content.slice(8).trim();
+
+    if (message.channel.type === 'DM') {
+      if (!arg) {
+        return message.channel.send('⚠️ Please paste your full army list text after `!whlist`.');
+      }
+      try {
+        const parsed = parseList(arg);
+        if (!parsed || !parsed.units || parsed.units.length === 0) {
+          return message.channel.send('❌ Could not parse a valid army list. Please check your formatting.');
+        }
+        const embed = createCondensedEmbed(parsed);
+
+        const token = crypto.randomBytes(4).toString('hex');
+
+        storeList(token, parsed);
+
+        await message.channel.send({ embeds: [embed] });
+        await message.channel.send(`✅ Your list has been saved! Use this token in public channels:\n\`!whlist ${token}\``);
+      } catch (err) {
+        console.error('Error parsing list:', err);
+        return message.channel.send('❌ Error processing your army list. Please check your formatting.');
+      }
+      return;
     }
 
-    const embed = createListEmbed(listData);
-    await message.channel.send({ embeds: [embed] });
-
-  } catch (error) {
-    console.error('Error fetching New Recruit list:', error);
-    message.channel.send('❌ There was an error processing the New Recruit list. Please try again later.');
+    // Public channel — treat arg as token
+    try {
+      const cachedList = getList(arg);
+      if (!cachedList) {
+        return message.channel.send(`❌ No saved list found for token: \`${arg}\`.`);
+      }
+      const embed = createCondensedEmbed(cachedList);
+      await message.channel.send({ embeds: [embed] });
+    } catch (err) {
+      console.error('Error retrieving cached list:', err);
+      message.channel.send('❌ There was an error retrieving the cached list.');
+    }
+    return;
   }
-  return; // stop further processing
-}
   if (message.author.bot) return;
 
 
@@ -92,18 +115,27 @@ client.on('messageCreate', async (message) => {
     }
 
     // Default help message
-    const helpEmbed = new EmbedBuilder()
-      .setTitle('Logifer Bot — Warhammer Unit Search')
-      .setColor(0x00bfff)
-      .setDescription(
-        `Use this bot to search Wahapedia for Warhammer 40K units.\n\n` +
-        `**Basic Syntax:** \`!wh [faction abbreviation] [unit name]\`\n` +
-        `🔹 Example: \`!wh sm terminators\` → Space Marine Terminators\n\n` +
-        `Colloquial names like \`termie\`, \`custodes\`, or \`csm\` are supported.\n\n` +
-        `➡️ Type \`!whhelp factions\` or \`!wh help factions\` to see supported faction abbreviations.\n` +
-        `ℹ️ Any message starting with \`!wh \` will be treated as a unit search.`
-      )
-      .setFooter({ text: 'Created by SaintMIKAL' });
+  const helpEmbed = new EmbedBuilder()
+  .setTitle('Logifer Bot — Warhammer Unit Search')
+  .setColor(0x00bfff)
+  .setDescription(
+    `This bot currently supports embedded unit searches from Wahapedia and Army List embedding.\n\n` +
+    `Use the !wh command to search Wahapedia for Warhammer 40K units.\n\n` +
+    `**Basic Syntax:** \`!wh [faction abbreviation] [unit name]\`\n` +
+    `🔹 Example: \`!wh sm terminators\` → Space Marine Terminators\n\n` +
+    `Colloquial names like \`termie\`, \`custodes\`, or \`csm\` are supported.\n\n` +
+    `➡️ Type \`!whhelp factions\` or \`!wh help factions\` to see supported faction abbreviations.\n` +
+    `ℹ️ Any message starting with \`!wh \` will be treated as a unit search.\n\n` +
+    `For army list embedding, please retrieve your army list link from New Recruit.\n` +
+    `Once you have your list, copy the full text of the list in the default format.\n` +
+    `You can then either paste the list into a public channel with the command \`!whlist <list>\`, or paste it here in DMs with me.\n\n` +
+    `🔹 If used in a **public channel**, the bot will delete your message and replace it with a concise, formatted embed of your list.\n` +
+    `🔹 If used in **DMs**, the bot will reply with a concise embed and a token you can use later in public.\n\n` +
+    `➡️ To share a DM-submitted list in a public channel, type \`!whlist <token>\` — the bot will embed it for you. Tokens are saved indefinitely.`
+  )
+  .setFooter({ text: 'If you have any questions, DM saintmikal' });
+
+ 
 
     return message.author.send({ embeds: [helpEmbed] }).then(() => {
       message.react('📬');
